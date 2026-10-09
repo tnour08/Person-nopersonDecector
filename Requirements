@@ -1,0 +1,7 @@
+tensorflow>=2.12
+opencv-python
+matplotlib
+numpy
+scikit-learn
+pycocotools
+requests
